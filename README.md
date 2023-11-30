@@ -12,7 +12,26 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 
 ## Companies list
 
-TODO.
+- 37signals [Open Positions](https://37signals.com/jobs)
+- Booster SEO [Open Positions](https://boosterseo.homerun.co/)
+- Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
+- Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
+- Clipboard Health [Open Positions](https://boards.greenhouse.io/clipboardhealth)
+- Doist [Open Positions](https://doist.com/careers)
+- DuckDuckGo [Open Positions](https://duckduckgo.recruitee.com/)
+- Enveritas [Open Positions](https://jobs.lever.co/Enveritas)
+- Forward [Open Positions](https://work.withforward.com/)
+- Gumroad [Open Positions](https://help.gumroad.com/article/284-jobs-at-gumroad)
+- Index [Open Positions](https://index-soft.jobs.personio.com/)
+- MonarchMoney [Open Positions](https://www.monarchmoney.com/careers)
+- Nirvana [Open Positions](https://www.nirvanatech.com/careers)
+- Quinncia [Open Positions](https://wellfound.com/company/quinncia/jobs)
+- Remote [Open Positions](https://remote.com/careers)
+- Shopify [Open Positions](https://www.shopify.com/careers/)
+- SOAX [Open Positions](https://soax.com/careers)
+- Sticker Mule [Open Positions](https://www.stickermule.com/careers)
+- Supabase [Open Positions](https://supabase.com/careers)
+- Zapier [Open Positions](https://zapier.com/jobs)
 
 > [!NOTE]  
 > This table is continuously updated as new opportunities arise.
@@ -27,3 +46,7 @@ We welcome contributions to keep this list up-to-date and relevant. You can subm
 ## Disclaimer
 
 The listed companies are independently researched. We recommend that candidates do their due diligence before applying.
+
+## Related projects
+
+- Spain ([remote-es](https://github.com/remote-es/remotes))
