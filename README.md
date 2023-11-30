@@ -34,7 +34,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Zapier [Open Positions](https://zapier.com/jobs)
 
 > [!NOTE]  
-> This table is continuously updated as new opportunities arise.
+> This list is continuously updated as new opportunities arise.
 
 ## Contributing
 
