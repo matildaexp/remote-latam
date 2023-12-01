@@ -13,6 +13,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 ## Companies list
 
 - 37signals [Open Positions](https://37signals.com/jobs)
+- Automattic [Open Positions](https://automattic.com/work-with-us/)
 - Booster SEO [Open Positions](https://boosterseo.homerun.co/)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
 - Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
