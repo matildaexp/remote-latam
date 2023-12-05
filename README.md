@@ -28,7 +28,6 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Nirvana [Open Positions](https://www.nirvanatech.com/careers)
 - Quinncia [Open Positions](https://wellfound.com/company/quinncia/jobs)
 - Remote [Open Positions](https://remote.com/careers)
-- Shopify [Open Positions](https://www.shopify.com/careers/)
 - SOAX [Open Positions](https://soax.com/careers)
 - Sticker Mule [Open Positions](https://www.stickermule.com/careers)
 - Supabase [Open Positions](https://supabase.com/careers)
