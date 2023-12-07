@@ -13,8 +13,10 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 ## Companies list
 
 - 37signals [Open Positions](https://37signals.com/jobs)
+- Aha [Open Positions](https://www.aha.io/company/careers/current-openings)
 - Automattic [Open Positions](https://automattic.com/work-with-us/)
 - Booster SEO [Open Positions](https://boosterseo.homerun.co/)
+- Buffer [Open Positions](https://buffer.com/journey#open-roles)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
 - Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
 - Clipboard Health [Open Positions](https://boards.greenhouse.io/clipboardhealth)
@@ -23,6 +25,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - DuckDuckGo [Open Positions](https://duckduckgo.recruitee.com/)
 - Enveritas [Open Positions](https://jobs.lever.co/Enveritas)
 - Forward [Open Positions](https://work.withforward.com/)
+- GitLab [Open Positions](https://about.gitlab.com/jobs/all-jobs/)
 - Gumroad [Open Positions](https://help.gumroad.com/article/284-jobs-at-gumroad)
 - Index [Open Positions](https://index-soft.jobs.personio.com/)
 - MonarchMoney [Open Positions](https://www.monarchmoney.com/careers)
@@ -33,6 +36,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - SOAX [Open Positions](https://soax.com/careers)
 - Sticker Mule [Open Positions](https://www.stickermule.com/careers)
 - Supabase [Open Positions](https://supabase.com/careers)
+- Toggl [Open Positions](https://toggl.com/jobs/#jobs)
 - Zapier [Open Positions](https://zapier.com/jobs)
 
 > [!NOTE]  
