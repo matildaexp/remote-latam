@@ -20,6 +20,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
 - Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
 - Clipboard Health [Open Positions](https://boards.greenhouse.io/clipboardhealth)
+- ConvertKit [Open Positions](https://convertkit.com/careers)
 - Deel [Open Positions](https://www.deel.com/careers)
 - Doist [Open Positions](https://doist.com/careers)
 - DuckDuckGo [Open Positions](https://duckduckgo.recruitee.com/)
