@@ -15,6 +15,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - 37signals [Open Positions](https://37signals.com/jobs)
 - Aha [Open Positions](https://www.aha.io/company/careers/current-openings)
 - Automattic [Open Positions](https://automattic.com/work-with-us/)
+- Bobsled [Open Positions](https://www.bobsled.co/company)
 - Booster SEO [Open Positions](https://boosterseo.homerun.co/)
 - Buffer [Open Positions](https://buffer.com/journey#open-roles)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
