@@ -46,7 +46,14 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 
 ## Contributing
 
-We welcome contributions to keep this list up-to-date and relevant. You can submit a pull request or open an issue if you know a company that meets the criteria but is not listed. Make sure to include the following information:
+We welcome contributions to keep this list up-to-date and relevant.
+
+Companies can be from anywhere and must offer remote jobs in Latin America. They should also meet one of these criteria:
+
+1. **The company offers above-the-market salaries.** +55,000 per year (+4,583 per month).
+2. **The company offers market salary but cool benefits.** <50,000 per year, but offers 4-day workweeks or unlimited PTO.
+
+You can submit a pull request or open an issue if you know a company that meets the criteria but is not listed. Make sure to include the following information:
 
 - Company name
 - Direct link to the job application or career page
