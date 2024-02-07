@@ -12,6 +12,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 
 ## Companies list
 
+- 10up [Open Positions](https://10up.com/careers/)
 - 37signals [Open Positions](https://37signals.com/jobs)
 - Aha [Open Positions](https://www.aha.io/company/careers/current-openings)
 - Automattic [Open Positions](https://automattic.com/work-with-us/)
@@ -30,6 +31,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - GitLab [Open Positions](https://about.gitlab.com/jobs/all-jobs/)
 - Gumroad [Open Positions](https://help.gumroad.com/article/284-jobs-at-gumroad)
 - Index [Open Positions](https://index-soft.jobs.personio.com/)
+- Iterative.ai [Open Positions](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22)
 - MonarchMoney [Open Positions](https://www.monarchmoney.com/careers)
 - Nirvana [Open Positions](https://www.nirvanatech.com/careers)
 - PostHog [Open Positions](https://posthog.com/careers)
