@@ -38,6 +38,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Quinncia [Open Positions](https://wellfound.com/company/quinncia/jobs)
 - Remote [Open Positions](https://remote.com/careers)
 - SOAX [Open Positions](https://soax.com/careers)
+- SparkLoop [Open Positions](https://sparkloop.app/careers)
 - Sticker Mule [Open Positions](https://www.stickermule.com/careers)
 - Supabase [Open Positions](https://supabase.com/careers)
 - Toggl [Open Positions](https://toggl.com/jobs/#jobs)
