@@ -32,6 +32,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Gumroad [Open Positions](https://help.gumroad.com/article/284-jobs-at-gumroad)
 - Index [Open Positions](https://index-soft.jobs.personio.com/)
 - Iterative.ai [Open Positions](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22)
+- LatamRecruit [Open Positions](https://latamrecruit.com/careers/)
 - MonarchMoney [Open Positions](https://www.monarchmoney.com/careers)
 - Nirvana [Open Positions](https://www.nirvanatech.com/careers)
 - PostHog [Open Positions](https://posthog.com/careers)
