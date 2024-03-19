@@ -44,6 +44,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Sticker Mule [Open Positions](https://www.stickermule.com/careers)
 - Supabase [Open Positions](https://supabase.com/careers)
 - Toggl [Open Positions](https://toggl.com/jobs/#jobs)
+- WellTheory [Open Positions](https://www.notion.so/Work-at-WellTheory-f4e6aad0b3a9444aa96082023236d23e)
 - Zapier [Open Positions](https://zapier.com/jobs)
 
 > [!NOTE]  
