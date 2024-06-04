@@ -19,6 +19,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Automattic [Open Positions](https://automattic.com/work-with-us/)
 - Bobsled [Open Positions](https://www.bobsled.co/company)
 - Booster SEO [Open Positions](https://boosterseo.homerun.co/)
+- Brex [Open Positions](https://www.brex.com/careers#jobsBoard)
 - Buffer [Open Positions](https://buffer.com/journey#open-roles)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
 - Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
