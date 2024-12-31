@@ -21,7 +21,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Booster SEO [Open Positions](https://boosterseo.homerun.co/)
 - Buffer [Open Positions](https://buffer.com/journey#open-roles)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
-- Circle.so [Open Positions](https://circleco.notion.site/Circle-Careers-223a15ea312c4922b793593d07add7fe)
+- Circle.so [Open Positions](https://circle.so/careers)
 - Clipboard Health [Open Positions](https://boards.greenhouse.io/clipboardhealth)
 - ConvertKit [Open Positions](https://convertkit.com/careers)
 - Deel [Open Positions](https://www.deel.com/careers)
