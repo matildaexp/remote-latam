@@ -28,7 +28,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Doist [Open Positions](https://doist.com/careers)
 - DuckDuckGo [Open Positions](https://duckduckgo.recruitee.com/)
 - Fingerprint [Open Positions](https://fingerprint.com/careers/jobs/)
-- Enveritas [Open Positions](https://jobs.lever.co/Enveritas)
+- Enveritas [Open Positions](https://www.enveritas.org/jobs/)
 - Forward [Open Positions](https://work.withforward.com/)
 - GitLab [Open Positions](https://about.gitlab.com/jobs/all-jobs/)
 - Gumroad [Open Positions](https://help.gumroad.com/article/284-jobs-at-gumroad)
