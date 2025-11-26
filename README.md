@@ -32,6 +32,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Fingerprint [Open Positions](https://fingerprint.com/careers/jobs/)
 - Enveritas [Open Positions](https://www.enveritas.org/jobs/)
 - Forward [Open Positions](https://work.withforward.com/)
+- Ghost [Open Positions](https://careers.ghost.org/)
 - GitLab [Open Positions](https://about.gitlab.com/jobs/all-jobs/)
 - Gumroad [Open Positions](https://antiwork.com/bounties)
 - Index [Open Positions](https://index-soft.jobs.personio.com/)
