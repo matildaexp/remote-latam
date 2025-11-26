@@ -27,7 +27,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - ConvertKit [Open Positions](https://convertkit.com/careers)
 - Deel [Open Positions](https://www.deel.com/careers)
 - Doist [Open Positions](https://doist.com/careers)
-- DuckDuckGo [Open Positions](https://duckduckgo.recruitee.com/)
+- DuckDuckGo [Open Positions](https://duckduckgo.com/hiring)
 - Fillout [Open Positions](https://www.fillout.com/careers)
 - Fingerprint [Open Positions](https://fingerprint.com/careers/jobs/)
 - Enveritas [Open Positions](https://www.enveritas.org/jobs/)
