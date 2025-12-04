@@ -42,6 +42,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Nirvana [Open Positions](https://www.nirvanatech.com/careers)
 - PostHog [Open Positions](https://posthog.com/careers)
 - Quinncia [Open Positions](https://wellfound.com/company/quinncia/jobs)
+- RevenueCat [Open Positions](https://www.revenuecat.com/careers)
 - Remote [Open Positions](https://remote.com/careers)
 - SOAX [Open Positions](https://soax.com/careers)
 - SparkLoop [Open Positions](https://sparkloop.app/careers)
