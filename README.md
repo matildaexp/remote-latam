@@ -23,6 +23,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Buffer [Open Positions](https://buffer.com/journey#open-roles)
 - Carb Manager [Open Positions](https://apply.workable.com/carbmanager/)
 - Circle.so [Open Positions](https://circle.so/careers)
+- Cliniko [Open Positions](https://apply.workable.com/cliniko/)
 - Clipboard Health [Open Positions](https://www.clipboardhealth.com/careers)
 - ConvertKit [Open Positions](https://convertkit.com/careers)
 - Deel [Open Positions](https://www.deel.com/careers)
