@@ -46,6 +46,7 @@ Remote LATAM lists U.S. and high-income companies with remote tech jobs in [Lati
 - Quinncia [Open Positions](https://wellfound.com/company/quinncia/jobs)
 - RevenueCat [Open Positions](https://www.revenuecat.com/careers)
 - Remote [Open Positions](https://remote.com/careers)
+- SeedTrust [Open Positions](https://seedtrust.applytojob.com/apply/)
 - Sezzle [Open Positions](https://sezzle.com/careers)
 - SOAX [Open Positions](https://soax.com/careers)
 - Sourcegraph [Open Positions](https://sourcegraph.com/jobs)
